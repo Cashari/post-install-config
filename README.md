@@ -40,7 +40,7 @@ Used the support center to create ticketing issues.
 <img src="https://imgur.com/mEpvJSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login as an administrator after created 3 different ticket issue, one high priority and 2 normal.
+Login as an administrator after created 3 different ticket issues, one high priority and 2 normal.
 </p>
 <br />
 
