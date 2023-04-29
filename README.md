@@ -40,7 +40,7 @@ Used the support center to create ticketing issues.
 <img src="https://imgur.com/mEpvJSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login as an administrator after created 3 differentticket issue, one high priority and 2 normal.
+Login as an administrator after created 3 different ticket issue, one high priority and 2 normal.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ Login as an administrator after created 3 differentticket issue, one high priori
 <img src="https://imgur.com/PCOUKOx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assign a ticketto myself, worked to resolve the issue. assign other tickets to agent, put down notes and close.
+Assign a ticket to myself, worked to resolve the issue. assign other tickets to agent, put down notes and close.
 </p>
 <br />
